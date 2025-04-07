@@ -105,9 +105,9 @@ text-align: center;
     
     
     nav.navbar .nav-intro .nav-text-1 {
-      margin-left: 50px!important;
+      margin-left: 10px!important;
         font-family: serif;
-       font-size: 2rem!important;
+       font-size: 2.5rem!important;
         cursor: pointer;
         
     }
@@ -121,7 +121,7 @@ text-align: center;
         color: black;
         cursor: pointer;
         font-size: 1rem!important;
-        margin-left: 12px!important;
+        margin-left: 1px!important;
     }
     
     nav.navbar .navlinks a:hover {
